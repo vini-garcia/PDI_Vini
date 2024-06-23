@@ -1,0 +1,6 @@
+@WebAPIVini_HostAddress = http://localhost:5077
+
+GET {{WebAPIVini_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
